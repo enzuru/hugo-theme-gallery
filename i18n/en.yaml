@@ -11,7 +11,7 @@ downloadTitle: Download
 relatedAlbums: Related albums
 photoCount:
   one: 1 photo
-  other: "{{ . }} photos"
+  other: "{{ . }} projects"
 albumCount:
   one: "{{ .photoCount }} in {{ .count }} album"
   other: "{{ .photoCount }} in {{ .count }} albums"
